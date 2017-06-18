@@ -1,4 +1,4 @@
-# Create a Javascript & jQuery Powered Music Player
+# Exploring Callbacks: JavaScript Keyboard
 
 ## Project Skeleton
 This example project includes foundational HTML & CSS. Open [index.html](index.html) to have a look at the layout. The goal of this project is to bind interactivity to the color boxes so that, when interacted with, they play a musical tone. :)
